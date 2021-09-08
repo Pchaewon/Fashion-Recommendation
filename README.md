@@ -1,5 +1,4 @@
-# Fashion-Recommendation
-Graduation work
+# Fashion
 
 
 #### 버전 관리
